@@ -7,3 +7,4 @@ How to run on linux:
 2. Command "g++ -o project_2 project_2.cpp" to be able to run ./ command
 3. Command "./project_2" to run code
 
+Link for record: https://youtu.be/juGJ4jQXRIs 
